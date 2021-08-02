@@ -1,0 +1,5 @@
+Credentials cache: API:68410
+        Principal: minummin@S19.BE
+
+		  Issued                Expires               Principal
+		  Feb  3 12:09:18 2020  Feb  3 22:09:07 2020  krbtgt/S19.BE@S19.BE
